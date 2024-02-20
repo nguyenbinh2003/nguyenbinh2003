@@ -2,9 +2,9 @@ Hi,👋 Welcome to my profile
 
 Here are some information to you :
 
-    🔭 I’m currently working on Hanoi city
-    🌱 I studied at Hanoi University of Civil Engineering
-    ✉️ You can contact me at nguyenbinh191103@gmail.com
+   - 🔭 I’m currently working on Hanoi city
+   - 🌱 I studied at MIndx Technology School
+   - ✉️ You can contact me at nguyenbinh191103@gmail.com
 
 <!--
 **nguyenbinh2003/nguyenbinh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
