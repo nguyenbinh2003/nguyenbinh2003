@@ -10,31 +10,41 @@ Here are some information to you :
 
 ## Tech Stack
 
-**JavaScript**
+<div class="tech-stack">
+  <div class="item">
+    <img src="https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/javascript.svg" alt="JavaScript">
+    <p>JavaScript</p>
+  </div>
+  <div class="item">
+    <img src="https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/html5.svg" alt="HTML5">
+    <p>HTML5</p>
+  </div>
+  <div class="item">
+    <img src="https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/css3.svg" alt="CSS3">
+    <p>CSS3</p>
+  </div>
+  </div>
+<style>
+   .tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
 
-![JavaScript](https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/javascript.svg)
+.item {
+  margin: 10px;
+  text-align: center;
+}
 
-**HTML5**
+.item img {
+  width: 50px;
+  height: 50px;
+}
 
-![HTML5](https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/html5.svg)
-
-**CSS3**
-
-![CSS3](https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/css3.svg)
-
-**...**
-
-<!--
-**nguyenbinh2003/nguyenbinh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.item p {
+  margin-top: 5px;
+  font-size: 14px;
+}
+   
+<style/>
