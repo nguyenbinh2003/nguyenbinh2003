@@ -1,3 +1,28 @@
+<style>
+.tech-stack {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+.item {
+  margin: 10px;
+  text-align: center;
+}
+
+.item img {
+  width: 50px;
+  height: 50px;
+}
+
+.item p {
+  margin-top: 5px;
+  font-size: 14px;
+}
+   
+</style>
+
 Hi,👋 Welcome to my profile
 
 Here are some information to you :
@@ -24,27 +49,3 @@ Here are some information to you :
     <p>CSS3</p>
   </div>
   </div>
-<style>
-   .tech-stack {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.item {
-  margin: 10px;
-  text-align: center;
-}
-
-.item img {
-  width: 50px;
-  height: 50px;
-}
-
-.item p {
-  margin-top: 5px;
-  font-size: 14px;
-}
-   
-</style>
