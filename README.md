@@ -47,4 +47,4 @@ Here are some information to you :
   font-size: 14px;
 }
    
-<style/>
+</style>
