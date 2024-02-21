@@ -11,17 +11,5 @@ Here are some information to you :
 
 ## Tech Stack
 
-<div class="tech-stack">
-  <div class="item">
-    <img src="https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/javascript.svg" alt="JavaScript">
-    <p>JavaScript</p>
-  </div>
-  <div class="item">
-    <img src="https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/html5.svg" alt="HTML5">
-    <p>HTML5</p>
-  </div>
-  <div class="item">
-    <img src="https://raw.githubusercontent.com/your-username/your-project/master/assets/icons/css3.svg" alt="CSS3">
-    <p>CSS3</p>
-  </div>
-  </div>
+   - HTML
+     ![Icon](http://www.w3.org/2000/svg)
